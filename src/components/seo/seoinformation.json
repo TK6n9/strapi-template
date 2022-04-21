@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_seo_seoinformations",
+  "info": {
+    "displayName": "Seoinformation",
+    "icon": "bullhorn"
+  },
+  "options": {},
+  "attributes": {
+    "SeoTitle": {
+      "type": "string"
+    },
+    "SeoDescription": {
+      "type": "text"
+    }
+  }
+}
